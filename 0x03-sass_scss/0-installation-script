@@ -1,0 +1,12 @@
+I Checked if Node.js is installed, with:
+node -v
+npm -v
+
+I open terminal (Command Prompt, Git Bash, or Terminal) and run:
+npm install -g sass
+
+After installation, I check if SASS is installed correctly, with:
+sass --version
+
+I now compile .scss or .sass files to .css. with:
+sass --watch input.scss:output.css
